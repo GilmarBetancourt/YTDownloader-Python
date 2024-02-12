@@ -1,0 +1,10 @@
+Ask for the link
+Print the video title
+Print the video date
+
+Get the list of resolutions
+Check if there is a 720p one.
+	If there is a 720p one, get that one.
+	else get the next one
+	
+Download the vid
